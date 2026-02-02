@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi I'm Jopei 👋
+A performance-driven Front-end Engineer with 5 years of experience, currently holding a **Youth Mobility Scheme (YMS) visa** (valid until 2027) with full right to work in the UK.
+Expert in React (Vite/Redux) and Vue.js (Vuex), with a focus on delivering high-performance SPAs and immersive interactive experiences. Adept at bridging the gap between complex backend logic and pixel-perfect UI/UX design.
 
+***
 <!--
 **jopei-liao/jopei-liao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
