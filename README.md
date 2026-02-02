@@ -16,7 +16,9 @@ Expert in React (Vite/Redux) and Vue.js (Vuex), with a focus on delivering high-
 - Built with React and Vite to ensure fast development cycles and optimized asset loading.
 Implemented responsive layouts and interactive elements to showcase visual content effectively.
 
+***
 
+contact me! ➡️ jopei.liao@gmail.com
 <!--
 **jopei-liao/jopei-liao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
