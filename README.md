@@ -4,9 +4,14 @@ Expert in React (Vite/Redux) and Vue.js (Vuex), with a focus on delivering high-
 
 ## 👩🏻‍💻Side Project
 
-### <img src="https://github.com/user-attachments/assets/2f65b040-9e74-41e9-8434-a85037a36dd6" width="300px" align="center" />  (But Mostly Just Lost😛)
+### <img src="https://github.com/user-attachments/assets/2f65b040-9e74-41e9-8434-a85037a36dd6" width="300px" align="center" />   
+![Started](https://img.shields.io/badge/Started-Jan%2001%202021-blue)
 
-> This is a landing page for an Instagram account dedicated to the forgotten treasures found on city streets. We document lost items exactly where they lie—no safekeeping, no returns, just a snapshot of the unexpected. It’s a digital museum of things left behind.
+> This is the landing page for [@somethinglostonroad](https://www.instagram.com/somethinglostonroad), an Instagram account dedicated to the forgotten treasures (and occasional junk) found on city streets.
+> 
+> We have been documenting lost items exactly where they lie since early 2021—no safekeeping, no returns, and absolutely no lost-and-found desk. Think of it as a digital museum of things people probably wish they still had. We’re here to capture the unexpected, one lonely shoe and misplaced umbrella at a time.😛
+>
+> ***“We don’t save your stuff; we just make it immortal.”***
 
 🔗 [Demo](https://jopei-liao.github.io/lostandfound/)  ｜ [GitLab](https://gitlab.com/jopei-liao/2025-lostandfound.git)  
 - Tech Stack: React, Vite, CSS Modules, Responsive Design
