@@ -4,12 +4,11 @@ Expert in React (Vite/Redux) and Vue.js (Vuex), with a focus on delivering high-
 
 ## 👩🏻‍💻Side Project
 
-### LostAndFound (But Mostly Just Lost😛)
+### <img src="https://github.com/user-attachments/assets/2f65b040-9e74-41e9-8434-a85037a36dd6" width="300px" align="center" />  (But Mostly Just Lost😛)
 
 > This is a landing page for an Instagram account dedicated to the forgotten treasures found on city streets. We document lost items exactly where they lie—no safekeeping, no returns, just a snapshot of the unexpected. It’s a digital museum of things left behind.
 
-🔗 [Demo](https://jopei-liao.github.io/lostandfound/)  
-⌨️ [GitLab](https://gitlab.com/jopei-liao/2025-lostandfound.git)  
+🔗 [Demo](https://jopei-liao.github.io/lostandfound/)  ｜ [GitLab](https://gitlab.com/jopei-liao/2025-lostandfound.git)  
 - Tech Stack: React, Vite, CSS Modules, Responsive Design
 - Dynamic Content Management: Integrated Google Drive API to fetch and render a high volume of images dynamically, ensuring efficient content updates without redeploying code.
 - Developed a custom landing page for a humorous Instagram account focused on "found objects", bridging social media content with a dedicated web presence.
@@ -18,7 +17,9 @@ Implemented responsive layouts and interactive elements to showcase visual conte
 
 ***
 
-contact me! ➡️ jopei.liao@gmail.com
+contact me ! 👉 jopei.liao@gmail.com  
+find more me ! 👉 [Linkedin](https://www.linkedin.com/in/jopei-front-end-engineer)｜[Behance](https://www.behance.net/jopei-liao)｜[CV](https://drive.google.com/file/d/13TBDCyRM_vy8e0wKuRwXF1Vt5mCaFEgQ/view?usp=sharing)
+
 <!--
 **jopei-liao/jopei-liao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
