@@ -13,7 +13,7 @@ Expert in React (Vite/Redux) and Vue.js (Vuex), with a focus on delivering high-
 >
 > ***“We don’t save your stuff; we just make it immortal.”***
 
-🔗 [Demo](https://jopei-liao.github.io/lostandfound/)  ｜ [GitLab](https://gitlab.com/jopei-liao/2025-lostandfound.git)  
+🔗 [Demo](https://jopei-liao.github.io/lostandfound/)  ｜ [GitHub](https://github.com/jopei-liao/2025-lostandfound)  
 - Tech Stack: React, Vite, CSS Modules, Responsive Design
 - Dynamic Content Management: Integrated Google Drive API to fetch and render a high volume of images dynamically, ensuring efficient content updates without redeploying code.
 - Developed a custom landing page for a humorous Instagram account focused on "found objects", bridging social media content with a dedicated web presence.
