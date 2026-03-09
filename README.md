@@ -23,7 +23,7 @@ Implemented responsive layouts and interactive elements to showcase visual conte
 ***
 
 contact me ! 👉 jopei.liao@gmail.com  
-find more me ! 👉 [Linkedin](https://www.linkedin.com/in/jopei-front-end-engineer)｜[Behance](https://www.behance.net/jopei-liao)｜[CV](https://drive.google.com/file/d/13TBDCyRM_vy8e0wKuRwXF1Vt5mCaFEgQ/view?usp=sharing)
+find more me ! 👉 [Jopei's website](https://jopei-liao.github.io/)｜[Linkedin](https://www.linkedin.com/in/jopei-front-end-engineer)｜[Behance](https://www.behance.net/jopei-liao)｜[CV](https://drive.google.com/file/d/13TBDCyRM_vy8e0wKuRwXF1Vt5mCaFEgQ/view?usp=sharing)
 
 <!--
 **jopei-liao/jopei-liao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
